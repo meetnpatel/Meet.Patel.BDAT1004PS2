@@ -9,7 +9,6 @@ root2.pack(side = RIGHT)
 root1 = Frame(master)
 root1.pack(side = LEFT)
 
-
 label1 = Label(root1, text="Loan Amount:",width=20,font=("bold", 10))
 label1.grid(row=0, column=0)
 entry1 = Entry(root1)
