@@ -2,7 +2,6 @@ from tkinter import *
 import tkinter as tk
 
 master = Tk()
-
 master.geometry('600x180')
 
 root2 = Frame(master)
@@ -106,5 +105,3 @@ button24= Button(root2, text='=', height=1, width=8)
 button24.grid(row=7, column=3)
 
 master.mainloop()
-
-
