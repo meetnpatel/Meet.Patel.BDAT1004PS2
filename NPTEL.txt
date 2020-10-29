@@ -1,0 +1,16 @@
+Practical ML with Tensorflow
+https://nptel.ac.in/courses/106/106/106106213/
+
+Machine Learning ML
+https://nptel.ac.in/courses/106/106/106106202/
+
+Python for Data Science
+https://nptel.ac.in/courses/106/106/106106212/
+
+========================================
+
+Deep Learning
+https://nptel.ac.in/courses/106/105/106105215/
+
+Deep Learning 2
+https://nptel.ac.in/courses/106/106/106106201/
